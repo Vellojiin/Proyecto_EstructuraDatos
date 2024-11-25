@@ -1,0 +1,17 @@
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\bin\Debug\net8.0-windows\Proyecto1_Estructura.exe
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\bin\Debug\net8.0-windows\Proyecto1_Estructura.deps.json
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\bin\Debug\net8.0-windows\Proyecto1_Estructura.runtimeconfig.json
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\bin\Debug\net8.0-windows\Proyecto1_Estructura.dll
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\bin\Debug\net8.0-windows\Proyecto1_Estructura.pdb
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.Form1.resources
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.vbproj.GenerateResource.cache
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.AssemblyInfoInputs.cache
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.AssemblyInfo.vb
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.vbproj.CoreCompileInputs.cache
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.dll
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\refint\Proyecto1_Estructura.dll
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.pdb
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.genruntimeconfig.cache
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\ref\Proyecto1_Estructura.dll
+C:\Users\Johan\Documents\Programacion\Proyecto1_Estructura\Proyecto1_Estructura\obj\Debug\net8.0-windows\Proyecto1_Estructura.Form2.resources

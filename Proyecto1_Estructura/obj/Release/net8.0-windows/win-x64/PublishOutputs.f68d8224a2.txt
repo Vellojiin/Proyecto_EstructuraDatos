@@ -1,0 +1,7 @@
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\Proyecto1_Estructura.pdb
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\D3DCompiler_47_cor3.dll
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\PenImc_cor3.dll
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\PresentationNative_cor3.dll
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\vcruntime140_cor3.dll
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\wpfgfx_cor3.dll
+C:\Users\Johan\OneDrive\Documentos\Programacion\Laboratorio_4.2\Ejecutable_Proyecto1\Proyecto1_Estructura.exe
